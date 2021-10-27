@@ -1,8 +1,4 @@
 
-# TEla_instagram_com_react
+# Tela instagram com React e React-bootstrap
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of TEla_instagram_com_react is to ...
 
