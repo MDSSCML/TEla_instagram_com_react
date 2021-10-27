@@ -1,0 +1,63 @@
+
+Image{
+     width: 250px;
+     height: 100px;
+ }
+ .instagram{
+     width: 200px;
+     height: 100px;
+ }
+.facebook{
+    width: 30px;
+    height: 20px;
+}
+.flex-column{
+    border-style:groove;
+}
+.cadastrar{
+    border-style: groove;
+}
+.entraConta{
+    color: #385185;
+}
+input[type="text"]{
+    background-color: #FAFAFA;
+}
+input[type="password"]{
+    background-color: #FAFAFA;
+}
+.apple,.googlePlay{
+    width: 130px;
+    height: 40px;
+    cursor: pointer;
+}
+
+body{
+    background-color: #FAFAFA;
+    margin-top: 17px;
+    
+}
+.Container{
+    margin-top: 10px;
+
+}
+.marcio{
+    width: 600px;
+    height: 450px;
+}
+.linha{
+    border-style:groove;
+}
+@media screen and (max-width:770px) {
+    .aplicativo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .apple{
+        margin: 10px;
+    }
+    .marcio{
+        display: none;
+    }
+}
